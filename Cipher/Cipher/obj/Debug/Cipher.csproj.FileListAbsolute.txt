@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\Cipher.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\Cipher.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\Cipher.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\Cipher.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\Cipher.Cipher.resources
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\Cipher.exe
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\bin\Debug\Cipher.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\Cipher.exe
+c:\users\admin\documents\visual studio 2015\Projects\Cipher\Cipher\obj\Debug\Cipher.pdb
